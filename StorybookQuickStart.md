@@ -10,7 +10,7 @@ This gives you access to the `getstorybook` command which will become relevant s
  * Navigate to your project in your CLI
  * run `getstorybook`
  * Follow the prompts in the CLI
- * There should now be a new folder in the project's root directory `stories`
+ * There should now be a new folder in the project's root directory `/stories/index.js`
     * This is where everything will go inside of
     * Go ahead and delete everything inside of there
     * This is the file where we load in all of our files
